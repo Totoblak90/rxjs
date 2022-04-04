@@ -1,6 +1,5 @@
 
 
-console.log('Hola Mundo!');
 
 
 
